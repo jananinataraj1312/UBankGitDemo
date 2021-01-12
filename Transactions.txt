@@ -1,0 +1,4 @@
+Name           Amount
+Janani         10000
+Aakash         20000
+Dilip          30000
